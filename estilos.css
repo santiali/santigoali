@@ -10,3 +10,7 @@ header{
 h1{
     text-align: center;
 }
+p{
+    padding: 0;
+    color: blanchedalmond;
+}
