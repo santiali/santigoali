@@ -23,3 +23,8 @@ h2{
     color: blue;
     text-align: center;
 }
+section{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+}
