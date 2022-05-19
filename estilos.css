@@ -14,3 +14,12 @@ p{
     padding: 0;
     color: blanchedalmond;
 }
+main{
+    height: 500px;
+    width: 100%;
+    background-color: violet;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
